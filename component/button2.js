@@ -1,0 +1,2 @@
+export let login= <button style="background-color: aqua; font-size: 14px; width: 180px;"> login</button>;
+export let signin= <button style="background-color: pink; font-size: 14px; width: 180px;"> signin</button>
